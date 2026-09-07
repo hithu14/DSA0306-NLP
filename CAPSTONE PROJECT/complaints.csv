@@ -1,0 +1,37 @@
+text,label
+The lift is not working,Lift
+The elevator stopped suddenly,Lift
+Lift is stuck between floors,Lift
+The elevator is making strange noise,Lift
+Lift door is not opening,Lift
+The lift is broken,Lift
+Internet connection is not working,Network
+WiFi is very slow,Network
+Network connection is disconnected,Network
+I cannot access the internet,Network
+WiFi stopped working,Network
+Internet speed is very poor,Network
+There is no water supply,Water
+Water leakage in my room,Water
+The tap has no water,Water
+Water pipe is broken,Water
+No drinking water available,Water
+Water supply stopped suddenly,Water
+There is a power cut,Power
+Electricity is not working,Power
+Power supply is interrupted,Power
+The lights are not working,Power
+There is no electricity in my room,Power
+Electricity went off suddenly,Power
+Food quality is very bad,Food
+The food is cold,Food
+Food is not fresh,Food
+I found a problem with the food,Food
+The food tastes bad,Food
+Food service is poor,Food
+Hostel room is dirty,Hostel
+My hostel room has no cleaning,Hostel
+Hostel bathroom is not clean,Hostel
+There is a problem in my hostel room,Hostel
+Hostel facilities are poor,Hostel
+My hostel room needs maintenance,Hostel
